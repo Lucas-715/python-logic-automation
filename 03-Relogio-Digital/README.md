@@ -18,7 +18,7 @@ Este é um projeto de um relógio digital com interface gráfica (GUI) desenvolv
 
 1.  Navegue até a pasta do projeto.
     ```bash
-    03-Relogio-Digital
+    cd 03-Relogio-Digital
     ```
 2.  Execute o script no terminal:
     ```bash
