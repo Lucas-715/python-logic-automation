@@ -24,6 +24,6 @@ Este é um clássico jogo "Adivinhe o Número" desenvolvido em Python para ser e
     ```
 2.  Execute o script no terminal:
     ```bash
-    python Main.py
+    python main.py
     ```
 3.  Siga as instruções no terminal para jogar.
