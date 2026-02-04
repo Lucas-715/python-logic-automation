@@ -19,3 +19,16 @@ Uma coleção de ferramentas e scripts desenvolvidos para automatizar tarefas co
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/Lucas-715/python-logic-automation.git](https://github.com/Lucas-715/python-logic-automation.git)
+
+2. **Acesse a pasta do script desejado:**
+   ```bash
+   cd 01-Gerador-de-CPF
+
+3. **Execute o comando:**
+   ```bash
+   python main.py
+
+📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para detalhes.
+Desenvolvido com ☕ por Lucas Almeida
+---
