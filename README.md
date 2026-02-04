@@ -18,7 +18,7 @@ Uma coleção de ferramentas e scripts desenvolvidos para automatizar tarefas co
 
 1. **Clone o repositório:**
    ```bash
-   git clone git clone https://github.com/Lucas-715/python-logic-automation.git
+   git clone https://github.com/Lucas-715/python-logic-automation.git
    ```
 
 2. **Acesse a pasta do script desejado:**
