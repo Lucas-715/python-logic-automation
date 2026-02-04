@@ -12,7 +12,7 @@ Este script em Python gera um número de CPF completo e válido. Ele oferece doi
 
 1.  Navegue até a pasta do projeto.
     ```bash
-    cd 01-Gerador-de-CPF`
+    cd 01-Gerador-de-CPF
     ```
 3.  Execute o script no terminal:
     ```bash
