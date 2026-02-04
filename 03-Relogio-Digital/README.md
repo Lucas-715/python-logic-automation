@@ -22,6 +22,6 @@ Este é um projeto de um relógio digital com interface gráfica (GUI) desenvolv
     ```
 2.  Execute o script no terminal:
     ```bash
-    python Main.py
+    python main.py
     ```
 3.  A janela do relógio digital será aberta.
