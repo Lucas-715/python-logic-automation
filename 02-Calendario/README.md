@@ -11,9 +11,12 @@ Este é um script simples que utiliza o módulo `calendar` do Python para exibir
 
 ## 🚀 Como Executar
 
-1. Navegue até a pasta do projeto:
+1. Navegue até a pasta do projeto.
     ```bash
-        cd 02-Calendario
-    ´´´´
+    cd 02-Calendario
+    ```
+2.  Execute o script no terminal:
+    ```bash
+    python Main.py
+    ```
 
-2. 
