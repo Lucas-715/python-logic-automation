@@ -17,8 +17,11 @@ Este é um projeto de um relógio digital com interface gráfica (GUI) desenvolv
 ## 🚀 Como Executar
 
 1.  Navegue até a pasta do projeto.
+    ```bash
+    03-Relogio-Digital
+    ```
 2.  Execute o script no terminal:
     ```bash
-    python Relogio.py
+    python Main.py
     ```
 3.  A janela do relógio digital será aberta.
