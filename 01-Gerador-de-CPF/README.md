@@ -11,11 +11,14 @@ Este script em Python gera um número de CPF completo e válido. Ele oferece doi
 ## 🚀 Como Executar
 
 1.  Navegue até a pasta do projeto.
-2.  Execute o script no terminal:
     ```bash
-    python GeradorCPF.py
+    cd 01-Gerador-de-CPF`
     ```
-3.  O programa irá perguntar se você deseja o modo automático (1) ou manual (2). Siga as instruções no terminal.
+3.  Execute o script no terminal:
+    ```bash
+    python Main.py
+    ```
+4.  O programa irá perguntar se você deseja o modo automático (1) ou manual (2). Siga as instruções no terminal.
 
 ## 💡 Pontos de Melhoria Futura
 
