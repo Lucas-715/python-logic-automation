@@ -16,7 +16,7 @@ Este script em Python gera um número de CPF completo e válido. Ele oferece doi
     ```
 3.  Execute o script no terminal:
     ```bash
-    python Main.py
+    python main.py
     ```
 4.  O programa irá perguntar se você deseja o modo automático (1) ou manual (2). Siga as instruções no terminal.
 
