@@ -1,33 +1,21 @@
-# Meus Scripts e Utilitários em Python 🐍
+# 🐍 Python Utility Lab
 
-Bem-vindo(a) ao meu repositório de utilitários e pequenos projetos em Python! Aqui eu guardo alguns scripts que desenvolvi para aprender e praticar. Sinta-se à vontade para explorar e usar o código!
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge)
 
----
+Uma coleção de ferramentas e scripts desenvolvidos para automatizar tarefas cotidianas e aprimorar fundamentos de lógica de programação e algoritmos.
 
-## 🚀 Projetos
+## 🚀 Projetos no Laboratório
 
-Aqui está uma lista dos projetos disponíveis atualmente. Cada um está em sua própria pasta com um README detalhado.
+| Projeto | Descrição | Tecnologias / Conceitos |
+| :--- | :--- | :--- |
+| **01. Gerador de CPF** | Script para geração e validação de CPFs baseados em algoritmos oficiais. | `random`, `Regex`, `Algoritmos de Validação` |
+| **02. Calendário Interativo** | Visualizador de calendários mensais e anuais via terminal. | `calendar`, `Tratamento de Exceções` |
+| **03. Relógio Digital** | Interface gráfica (GUI) com troca dinâmica de temas. | `Tkinter`, `datetime`, `GUI Design` |
+| **04. Jogo da Adivinhação** | Desafio de lógica com limites de tentativa e validação de entrada. | `random`, `Controle de Fluxo`, `Input Handling` |
 
-| Projeto                                                 | Descrição                                                                      | Tecnologias Principais          |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------- |
-| **[01 - Gerador de CPF](./01-Gerador-de-CPF/)** | Um script que gera um CPF válido de forma automática ou a partir de 9 dígitos. | `random`, Lógica de Algoritmos  |
-| **[02 - Calendário Interativo](./02-Calendario/)** | Exibe o calendário de um mês e ano específicos fornecidos pelo usuário.        | `calendar`, `try-except`        |
-| **[03 - Relógio Digital](./03-Relogio-Digital/)** | Um relógio digital com data e um botão para alternar o tema de cores.          | `Tkinter`, `datetime`           |
-| **[04 - Jogo da Adivinhação](./04-Jogo-de-Adivinhar/)** | Jogo de adivinhar o número com limite de tentativas, validação e replay.        | `random`, `try-except`, `while` |
+## 🛠 Como Executar
 
-*(...Mais projetos em breve!)*
-
----
-
-## Como Usar
-
-1.  Clone este repositório:
-    ```bash
-    git clone [https://github.com/Lucas-715/python-scripts.git](https://github.com/Lucas-715/python-scripts.git)
-    ```
-2.  Navegue até a pasta do projeto que deseja executar (ex: `cd python-scripts/04-Jogo-de-Adivinhar`).
-3.  Execute o script Python (ex: `python Adivinha.py`).
-
-## Contato
-
-Me encontre no **[LinkedIn](https://www.linkedin.com/in/lucas-almeida-5433a0330/)**!
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/Lucas-715/python-logic-automation.git](https://github.com/Lucas-715/python-logic-automation.git)
