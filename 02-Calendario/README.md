@@ -17,6 +17,6 @@ Este é um script simples que utiliza o módulo `calendar` do Python para exibir
     ```
 2.  Execute o script no terminal:
     ```bash
-    python Main.py
+    python main.py
     ```
 
